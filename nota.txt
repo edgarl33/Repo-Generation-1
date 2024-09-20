@@ -1,4 +1,4 @@
 Este es mi primer texto de un repositorio escrito en una terminal Git Bash
 
 
-Este es un comentario que fue escrito desde Github, haber como se ve. 
+Este es un comentario que fue escrito desde Github, haber como se ve;

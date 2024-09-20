@@ -1,0 +1,1 @@
+Este es mi primer texto de un repositorio escrito en una terminal Git Bash
